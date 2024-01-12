@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "710491093707",
+    "project_id": "aiimage-74612",
+    "storage_bucket": "aiimage-74612.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710491093707:android:0cd3901bf36a0dc450794e",
+        "android_client_info": {
+          "package_name": "com.example.ai_image"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGtqf-vfbXdCxzdm5yzFJq8jVk_U8Kv_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
